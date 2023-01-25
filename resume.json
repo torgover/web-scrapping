@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Backend программист (Python)",
+        "salary": "от 120 000 руб. на руки",
+        "name_company": "MANGO FZCO",
+        "city": ""
+    },
+    {
+        "name": "Аналитик данных / Data Analyst",
+        "salary": "з/п не указана",
+        "name_company": "Сбер. Экспертам и руководителям",
+        "city": "Москва"
+    },
+    {
+        "name": "Data Scientist (Senior)",
+        "salary": "з/п не указана",
+        "name_company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "name": "Data Engineer",
+        "salary": "з/п не указана",
+        "name_company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "name": "Администратор Clickhouse",
+        "salary": "з/п не указана",
+        "name_company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "name": "Портфельный менеджер",
+        "salary": "з/п не указана",
+        "name_company": "МигКредит",
+        "city": ""
+    }
+]
